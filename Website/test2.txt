@@ -1,0 +1,10 @@
+<html>
+<title>Food blogger</title>
+<head bgcolor= green>
+<h1 >Best places to have snacks in Delhi</h1>
+<body><p><font size = 6; color = red>Best places to have Indian snacks in Delhi:<br>
+1. Old delhi<br>
+2. bla bla bla<br>
+3. something or the other</p>
+</body>
+<html>
